@@ -17,8 +17,16 @@ let obj = [
         {
             name: 'Mirsamatova',
             lover: 'Ibrohim',
-            img: 'https://previews.123rf.com/images/fincioenj/fincioenj1412/fincioenj141200011/34289040-kumbakonam-india-october-10-2013-close-up-of-older-woman-farmer-with-bad-teeth-and-millet-husks.jpg'
-        }
+            img: 'https://cdn.pixabay.com/photo/2018/06/19/09/48/girl-3484121_1280.jpg'
+        },{
+            name: 'Aziza',
+            lover: 'Abduqodir',
+            img: 'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/346a6aec-6fbe-4ee7-b228-068f96e250f4/d58o2hm-afd15146-1d51-4b39-82bd-6b053c29e732.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM0NmE2YWVjLTZmYmUtNGVlNy1iMjI4LTA2OGY5NmUyNTBmNFwvZDU4bzJobS1hZmQxNTE0Ni0xZDUxLTRiMzktODJiZC02YjA1M2MyOWU3MzIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.pMDo2E_jH8kBXITY_fOxUmVt0jgeK4ys2jGP14MUuPE'
+        },   {
+            name: '?',
+            lover: 'Rasul',
+            img: 'https://static.vecteezy.com/system/resources/previews/008/442/086/original/illustration-of-human-icon-user-symbol-icon-modern-design-on-blank-background-free-vector.jpg'
+        }, 
     ];
 
     let row = document.getElementById('row');
